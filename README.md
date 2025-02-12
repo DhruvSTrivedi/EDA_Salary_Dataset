@@ -206,9 +206,12 @@ Shows the highest-paying job roles in the dataset.
 
 ## 📊 Interactive Salary Insights Dashboard
 
+<p align="center">
 Explore the interactive **Salary Insights Dashboard** created using **Tableau** to gain deeper insights into salary distributions, job roles, industries, and company factors influencing compensation.
+</p>
 
-<div class='tableauPlaceholder' id='viz1739394395225' style='position: relative'>
+<p align="center">
+<div class='tableauPlaceholder' id='viz1739394395225' style='display: inline-block;'>
     <noscript>
         <a href='#'>
             <img alt='Salary Insights Dashboard' src='https://public.tableau.com/static/images/Sa/SalaryInsightsDashboard_17393943022140/SalaryInsightsDashboard/1_rss.png' style='border: none' />
@@ -228,6 +231,7 @@ Explore the interactive **Salary Insights Dashboard** created using **Tableau** 
         <param name='language' value='en-US' />
     </object>
 </div>
+</p>
 
 <script type='text/javascript'>
     var divElement = document.getElementById('viz1739394395225');
@@ -246,6 +250,7 @@ Explore the interactive **Salary Insights Dashboard** created using **Tableau** 
     scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
     vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
+
 
 ---
 
