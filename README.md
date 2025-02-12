@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project explores salary trends using **Exploratory Data Analysis (EDA)**. The goal is to uncover insights into salary distributions, job roles, industries, and company factors that influence compensation. Through **17 high-quality visualizations**, we analyze the relationship between job roles, employment status, company ratings, and salary trends.
+This project explores salary trends using **Exploratory Data Analysis (EDA)**. The goal is to uncover insights into salary distributions, job roles, industries, and company factors that influence compensation. Through **19 high-quality visualizations**, we analyze the relationship between job roles, employment status, company ratings, and salary trends.
 
 ## 📂 Dataset Overview
 
@@ -172,6 +172,26 @@ A correlation matrix heatmap showcasing relationships between salary and other f
 
 <p align="center">
   <img src="Output_Visuals/correlation_heatmap_of_salary_dataset.png" alt="Correlation Heatmap" width="600"/>
+</p>
+
+---
+
+### 1️⃣8️⃣ Salary Distribution by Job Role
+Examines the salary spread for different job roles.
+
+
+<p align="center">
+  <img src="Output_Visuals/salary_distribution_by_job_role.png" alt="Salary Distribution by Job Role" width="600"/>
+</p>
+
+---
+
+### 1️⃣9️⃣ Top Job Roles Salaries
+Shows the highest-paying job roles in the dataset.
+
+
+<p align="center">
+  <img src="Output_Visuals/top_job_roles_salaries.png" alt="Top Job Roles Salaries" width="600"/>
 </p>
 
 ---
