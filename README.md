@@ -202,6 +202,52 @@ Shows the highest-paying job roles in the dataset.
 - The **technology and finance sectors** offer the most competitive salaries.
 - Salary outliers exist, highlighting potential **highly paid executive roles** or **data inconsistencies**.
 
+---
+
+## 📊 Interactive Salary Insights Dashboard
+
+Explore the interactive **Salary Insights Dashboard** created using **Tableau** to gain deeper insights into salary distributions, job roles, industries, and company factors influencing compensation.
+
+<div class='tableauPlaceholder' id='viz1739394395225' style='position: relative'>
+    <noscript>
+        <a href='#'>
+            <img alt='Salary Insights Dashboard' src='https://public.tableau.com/static/images/Sa/SalaryInsightsDashboard_17393943022140/SalaryInsightsDashboard/1_rss.png' style='border: none' />
+        </a>
+    </noscript>
+    <object class='tableauViz'  style='display:none;'>
+        <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
+        <param name='embed_code_version' value='3' />
+        <param name='path' value='views/SalaryInsightsDashboard_17393943022140/SalaryInsightsDashboard?:language=en-US&amp;:embed=true&amp;:sid=&amp;:redirect=auth' />
+        <param name='toolbar' value='yes' />
+        <param name='static_image' value='https://public.tableau.com/static/images/Sa/SalaryInsightsDashboard_17393943022140/SalaryInsightsDashboard/1.png' />
+        <param name='animate_transition' value='yes' />
+        <param name='display_static_image' value='yes' />
+        <param name='display_spinner' value='yes' />
+        <param name='display_overlay' value='yes' />
+        <param name='display_count' value='yes' />
+        <param name='language' value='en-US' />
+    </object>
+</div>
+
+<script type='text/javascript'>
+    var divElement = document.getElementById('viz1739394395225');
+    var vizElement = divElement.getElementsByTagName('object')[0];
+    if ( divElement.offsetWidth > 800 ) { 
+        vizElement.style.width='1900px'; 
+        vizElement.style.height='927px';
+    } else if ( divElement.offsetWidth > 500 ) { 
+        vizElement.style.width='1900px'; 
+        vizElement.style.height='927px';
+    } else { 
+        vizElement.style.width='100%'; 
+        vizElement.style.height='2127px';
+    } 
+    var scriptElement = document.createElement('script');
+    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+    vizElement.parentNode.insertBefore(scriptElement, vizElement);
+</script>
+
+---
 
 ## 🚀 Future Work
 - Incorporating **machine learning models** to predict salary based on job factors.
