@@ -1,6 +1,6 @@
 # Salary Dataset - Exploratory Data Analysis (EDA)
 
-## 📌 Introduction
+## Introduction
 
 This project explores salary trends using **Exploratory Data Analysis (EDA)**. The goal is to uncover insights into salary distributions, job roles, industries, and company factors that influence compensation. Through **17 high-quality visualizations**, we analyze the relationship between job roles, employment status, company ratings, and salary trends.
 
@@ -13,6 +13,13 @@ The dataset contains structured salary information across various job roles, emp
 - **Industry Trends:** Identifying the most lucrative industries.
 - **Job Role Analysis:** Examining salary differences across roles.
 - **Company Ratings Influence:** Analyzing the correlation between salary and company reputation.
+
+### 📌 Libraries & Dependencies
+To successfully run the project and generate the visualizations, ensure you have the following Python libraries installed:
+
+```bash
+pip install pandas matplotlib seaborn folium wordcloud numpy
+```
 
 ## 📊 Exploratory Data Analysis
 
